@@ -23,11 +23,10 @@ Bem vindo ao meu perfil do Github!
 ![Figma](https://img.shields.io/badge/Figma-191970?style=for-the-badge&logo=figma&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-87CEFA?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 [![GitHub](https://img.shields.io/badge/GitHub-191970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonnamon)
-![Snake animation](https://github.com/seu-usuário-aqui/kaisbr/blob/output/github-contribution-grid-snake.svg)
 ## 🔹Experiências
 - 🐍 Conhecimento basico em JS, PHP e CSS pela Instituição Incentiva Cursos
 - 🌐 Inglês Intermediário
 
 ![CANVA](https://img.shields.io/badge/CANVA-0000FF?style=for-the-badge&logo=&logoColor=white)
 ## 🔹Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaisbr&repo=dio-lab-open-source&bg_color=0000FF&border_color=6495ED&show_icons=true&icon_color=6495ED&title_color=6495ED&text_color=FFF)](https://github.com/leonnamon/repo=dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaisbr&repo=BD-CUBE-OLAP-EC&bg_color=0000FF&border_color=6495ED&show_icons=true&icon_color=6495ED&title_color=6495ED&text_color=FFF)](https://github.com/kaisbr/BD-CUBE-OLAP-EC)
