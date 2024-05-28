@@ -11,7 +11,7 @@ Bem vindo ao meu perfil do Github!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-4a9821269/)
 [![X](https://img.shields.io/badge/X-6495ED?style=for-the-badge&logo=x)](https://x.com/kais__br)
 [![Instagram](https://img.shields.io/badge/-Instagram-0000FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kai._.th/)
-[![Telegram](https://img.shields.io/badge/Telegram-6495ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leonnamon)
+[![Telegram](https://img.shields.io/badge/Telegram-6495ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kaizinho)
 [![GitHub](https://img.shields.io/badge/GitHub-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonnamon)
 [![Gmail](https://img.shields.io/badge/Gmail-6495ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago01617@gmail.com)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbr&theme=transparent&bg_color=0000FF&border_color=30A3DC&show_icons=true&icon_color=6495ED&title_color=87CEFA&text_color=87CEFA)
