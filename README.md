@@ -14,6 +14,7 @@ Bem vindo ao meu perfil do Github!
 [![GitHub](https://img.shields.io/badge/GitHub-54079D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaisbr)
 [![Gmail](https://img.shields.io/badge/Gmail-6495ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago01617@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-54079D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6EFUagDJsS)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbr&theme=transparent&bg_color=54079D&border_color=30A3DC&show_icons=true&icon_color=6495ED&title_color=87CEFA&text_color=87CEFA)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kaisbr&theme=bear&background=54079D&border=6495ED&dates=F6495EDFF)](https://git.io/streak-stats)
 ## 🔹Skills
