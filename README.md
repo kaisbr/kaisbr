@@ -3,7 +3,7 @@
 Bem vindo ao meu perfil do Github!
 ## 🔹Sobre mim
  Tentando entrar nesse incrivel mundo de T.I
- - 📘 3/8 Engenharia da Computação - UNINASSAU
+ - 📘 4/8 Engenharia da Computação - UNINASSAU
  - 💼 Em busca de oportunidades na área de T.I
  - 👾 Gosto De animes e jogos
 ## 🔹Redes Sociais
