@@ -7,8 +7,7 @@ Bem vindo ao meu perfil do Github!
  - 💼 Em busca de oportunidades na área de T.I
  - 👾 Gosto De animes e jogos
 ## 🔹Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-54079D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-4a9821269/)
-[![X](https://img.shields.io/badge/X-6495ED?style=for-the-badge&logo=x)](https://x.com/kais__br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6495ED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-4a9821269/)
 [![Instagram](https://img.shields.io/badge/-Instagram-54079D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kai._.th/)
 [![Telegram](https://img.shields.io/badge/Telegram-6495ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kaizinho)
 [![GitHub](https://img.shields.io/badge/GitHub-54079D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaisbr)
@@ -19,11 +18,12 @@ Bem vindo ao meu perfil do Github!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kaisbr&theme=bear&background=54079D&border=6495ED&dates=F6495EDFF)](https://git.io/streak-stats)
 ## 🔹Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-87CEFA?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-54079D?style=for-the-badge&logo=python&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-54079D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaisbr)
 ![Git](https://img.shields.io/badge/GIT-87CEFA?style=for-the-badge&logo=git&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-54079D?style=for-the-badge&logo=figma&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-87CEFA?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-[![GitHub](https://img.shields.io/badge/GitHub-54079D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonnamon)
+
+
 ## 🔹Experiências
 - 🐍 Conhecimento basico em JS, PHP e CSS pela Instituição Incentiva Cursos
 - 🌐 Inglês Intermediário
