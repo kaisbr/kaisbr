@@ -31,4 +31,4 @@ Bem vindo ao meu perfil do Github!
 ![CANVA](https://img.shields.io/badge/CANVA-54079D?style=for-the-badge&logo=&logoColor=white)
 ## 🔹Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaisbr&repo=BD-CUBE-OLAP-EC&bg_color=54079D&border_color=6495ED&show_icons=true&icon_color=6495ED&title_color=6495ED&text_color=FFF)](https://github.com/kaisbr/BD-CUBE-OLAP-EC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaisbr&repo=BD-CUBE-OLAP-EC&bg_color=54079D&border_color=6495ED&show_icons=true&icon_color=6495ED&title_color=6495ED&text_color=FFF)](https://github.com/kaisbr/exf-finance-proj)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaisbr&repo=exf-finance-proj&bg_color=54079D&border_color=6495ED&show_icons=true&icon_color=6495ED&title_color=6495ED&text_color=FFF)](https://github.com/kaisbr/exf-finance-proj)
